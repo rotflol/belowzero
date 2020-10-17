@@ -3,6 +3,7 @@ Mirrored from gitlab
 * https://gitlab.com/Offerman/belowzero/-/blob/master/README.md
 
 * Gitlab presence: https://gitlab.com/Offerman
+* Keybase presence: https://keybase.io/belowzero666
 # belowzero
 
 * ~~babun http://babun.github.io/~~ [PROJECT ABANDONED!!!]
