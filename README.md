@@ -75,6 +75,7 @@ Easy and secure filetransfer
 * DutchCoders for Transfer.sh https://github.com/dutchcoders
 * Nitroshare https://github.com/nitroshare/nitroshare-desktop
 * wormhole https://github.com/magic-wormhole/magic-wormhole
+* Rust wormhole https://github.com/magic-wormhole/magic-wormhole.rs
 * keybase
 
 Goodies
